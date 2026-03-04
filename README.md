@@ -15,9 +15,14 @@ npx skills add shyftai/crispymcp --skill linkedin-prospecting
 npx skills add shyftai/crispymcp --skill linkedin-outreach
 npx skills add shyftai/crispymcp --skill linkedin-content
 npx skills add shyftai/crispymcp --skill linkedin-intelligence
+npx skills add shyftai/crispymcp --skill sdr-playbook
+npx skills add shyftai/crispymcp --skill personal-branding
+npx skills add shyftai/crispymcp --skill social-selling
 ```
 
 ## Skills
+
+### LinkedIn Tools
 
 | Skill | Description |
 |-------|-------------|
@@ -25,6 +30,14 @@ npx skills add shyftai/crispymcp --skill linkedin-intelligence
 | **[linkedin-outreach](skills/linkedin-outreach/SKILL.md)** | Send personalized messages, connection requests, and InMails. Manage conversations and run campaigns. |
 | **[linkedin-content](skills/linkedin-content/SKILL.md)** | Create and publish LinkedIn posts. Engage with content, manage comments, and optimize your strategy. |
 | **[linkedin-intelligence](skills/linkedin-intelligence/SKILL.md)** | Track post performance, profile analytics, network growth, and competitive intelligence. |
+
+### Playbooks
+
+| Skill | Description |
+|-------|-------------|
+| **[sdr-playbook](skills/sdr-playbook/SKILL.md)** | Complete SDR/BDR workflow — prospect identification, research, multi-touch outreach sequences, objection handling, and meeting booking. |
+| **[personal-branding](skills/personal-branding/SKILL.md)** | Build and grow your personal brand on LinkedIn — profile optimization, content strategy, audience growth, and performance tracking. |
+| **[social-selling](skills/social-selling/SKILL.md)** | Generate pipeline through relationships — attract with content, engage strategically, convert through warm conversations. |
 
 ## Requirements
 
