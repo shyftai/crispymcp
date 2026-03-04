@@ -18,6 +18,9 @@ npx skills add shyftai/crispymcp --skill linkedin-intelligence
 npx skills add shyftai/crispymcp --skill sdr-playbook
 npx skills add shyftai/crispymcp --skill personal-branding
 npx skills add shyftai/crispymcp --skill social-selling
+npx skills add shyftai/crispymcp --skill linkedin-recruiter
+npx skills add shyftai/crispymcp --skill lead-enrichment
+npx skills add shyftai/crispymcp --skill competitor-research
 ```
 
 ## Skills
@@ -38,6 +41,9 @@ npx skills add shyftai/crispymcp --skill social-selling
 | **[sdr-playbook](skills/sdr-playbook/SKILL.md)** | Complete SDR/BDR workflow — prospect identification, research, multi-touch outreach sequences, objection handling, and meeting booking. |
 | **[personal-branding](skills/personal-branding/SKILL.md)** | Build and grow your personal brand on LinkedIn — profile optimization, content strategy, audience growth, and performance tracking. |
 | **[social-selling](skills/social-selling/SKILL.md)** | Generate pipeline through relationships — attract with content, engage strategically, convert through warm conversations. |
+| **[linkedin-recruiter](skills/linkedin-recruiter/SKILL.md)** | Source candidates, build talent pipelines, send recruiting outreach, and manage hiring on LinkedIn. |
+| **[lead-enrichment](skills/lead-enrichment/SKILL.md)** | Enrich contact and company lists with LinkedIn profile data — titles, experience, company details, and profile URLs. |
+| **[competitor-research](skills/competitor-research/SKILL.md)** | Competitive intelligence from LinkedIn — hiring signals, org charts, content strategy, team growth, and market mapping. |
 
 ## Requirements
 
