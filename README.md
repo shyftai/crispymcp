@@ -21,6 +21,7 @@ npx skills add shyftai/crispymcp --skill social-selling
 npx skills add shyftai/crispymcp --skill linkedin-recruiter
 npx skills add shyftai/crispymcp --skill lead-enrichment
 npx skills add shyftai/crispymcp --skill competitor-research
+npx skills add shyftai/crispymcp --skill sales-navigator
 ```
 
 ## Skills
@@ -44,6 +45,7 @@ npx skills add shyftai/crispymcp --skill competitor-research
 | **[linkedin-recruiter](skills/linkedin-recruiter/SKILL.md)** | Source candidates, build talent pipelines, send recruiting outreach, and manage hiring on LinkedIn. |
 | **[lead-enrichment](skills/lead-enrichment/SKILL.md)** | Enrich contact and company lists with LinkedIn profile data — titles, experience, company details, and profile URLs. |
 | **[competitor-research](skills/competitor-research/SKILL.md)** | Competitive intelligence from LinkedIn — hiring signals, org charts, content strategy, team growth, and market mapping. |
+| **[sales-navigator](skills/sales-navigator/SKILL.md)** | Unlock Sales Navigator through AI — advanced filters, boolean search, InMail campaigns, intent signals, and TeamLink. |
 
 ## Requirements
 
